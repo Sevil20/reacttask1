@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import './styles.nav.css'
  class Employees extends Component {
     state = {
         data :[
@@ -26,7 +26,7 @@ import React, { Component } from 'react'
     return (
       <div>
         {this.state.data.map(item =>{
-            return <div style={{display:'flex',flexDirection:'row',justifyContent:'space-between',padding:'20px'}} key={item.id}>
+            return <div style={{display:'flex',flexDirection:'row',justifyContent:'space-evenly',padding:'20px'}} key={item.id}>
             <h2>{item.name}</h2>
             <br></br>
             <p style={{marginLeft:'20px'}}>{item.department}</p>

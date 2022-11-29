@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(174, 219, 247);
+}
+.nav{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 150px;
+    font-size: 36px;
+}
