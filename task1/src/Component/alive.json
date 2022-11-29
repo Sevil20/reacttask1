@@ -1,0 +1,40 @@
+{
+    "alives":[
+        {
+            "name":"John",
+            "role":"actor",
+            "place":"US",
+             "id":1
+        },
+        {
+            "name":"Azer",
+            "role":"programmer",
+            "place":"Azerbaijan",
+            "id":2
+        },
+        {
+            "name":"Fidan",
+            "role":"student",
+            "place":"Turkey",
+            "id":3
+        },
+        {
+            "name":"Antonio",
+            "role":"teacher",
+            "place":"Spanish",
+            "id":4
+        },
+        {
+            "name":"Yoora",
+            "role":"doctor",
+            "place":"South Korea",
+            "id":5
+        },
+        {
+            "name":"Turan",
+            "role":"driver",
+            "place":"Africa",
+            "id":6
+        }
+    ]
+}
